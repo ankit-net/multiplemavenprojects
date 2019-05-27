@@ -11,7 +11,7 @@
 
     <groupId>com.ankit</groupId>
     <artifactId>testingweb</artifactId>
-<!--    <packaging>war</packaging>-->
+    <packaging>war</packaging>
 
     <dependencies>
         <dependency>
